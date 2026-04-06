@@ -24,7 +24,6 @@ During the testing phase, the application selects a test image, makes a predicti
 2. **Saliency Heatmap:** A visual representation of the gradients, showing the areas of highest influence on the prediction.
 3. **Overlay:** The heatmap superimposed on the original image for clear interpretability.
 
-*(Note: You can add the generated Saliency Map image here later by uploading it to your repo and linking it like `![Saliency Map](image_link.png)`)*
 
 ## 💻 How to Run Locally
 
@@ -32,8 +31,8 @@ Follow these steps to clone the repository, install dependencies, and run the mo
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/Emirrbozkurt/MNIST-CNN-Saliency-Map.git](https://github.com/Emirrbozkurt/MNIST-CNN-Saliency-Map.git)
+cd MNIST-CNN-Saliency-Map
 2. Install required packages:
 
 Bash
@@ -51,4 +50,3 @@ Institution: Istinye University
 Context: Developed as a final project for the Introduction to Large Language Models (LLMs) course.
 
 
-`git clone` kısmındaki `your-username/your-repo-name` yazan yeri kendi oluşturduğun reponun linkiyle değiştirmeyi unutma. Bu README dosyası projeni inceleyen herkesin (özellikle hocanın) çok hoşuna gidecektir!
